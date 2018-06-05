@@ -1,3 +1,6 @@
+# GNU Make
+GNU Make is a utiltiy that automates the building executable from source code. It uses a configuration file so-called makefile which contains rules on how to build the executable.
+
 # Makefile
 
 A makefile is a file describe how to compile and link a program
