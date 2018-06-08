@@ -1,6 +1,6 @@
 
 ```
-g++ main.cpp print_hello.cpp print_hello.h -o hello.exe
+gcc main.c print_hello.c print_hello.h -o hello.exe
 ```
 
 It would generate hello.exe
